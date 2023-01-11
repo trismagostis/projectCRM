@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+a {
+  color: black;
+}
+
+.btn {
+  background-color: slateblue;
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  border-radius: 15px;
+  color: white;
+}
+
+.btn:hover {
+  background-color: darkslateblue;
+  cursor: pointer;
+}

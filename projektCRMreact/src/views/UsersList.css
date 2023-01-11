@@ -1,0 +1,30 @@
+.list {
+  list-style: none;
+}
+.list li {
+  background-color: rgba(255, 255, 255, 0.5);
+  margin-top: 1em;
+  padding: 0.9em;
+  margin-left: -2.6em;
+  border-radius: 5px;
+  color: #333;
+  width: 16em;
+  position: relative;
+}
+.list li:hover {
+  background-color: pink;
+}
+.list li span {
+  position: absolute;
+  left: 14em;
+  font-size: 1.2em;
+  font-weight: 600;
+}
+.list li span:hover{
+  color:red;
+  cursor:pointer;
+}
+table{
+  margin: auto;
+  margin-bottom: 1.5em;
+}
